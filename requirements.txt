@@ -2,3 +2,6 @@ websocket-client
 smartapi-python
 requests
 nsepy
+date
+datetime
+timedelta
